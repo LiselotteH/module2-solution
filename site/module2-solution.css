@@ -23,6 +23,7 @@ h1 {
   background-color: #A52A2A;
   position: absolute;
   text-align: center;
+  border: 1px solid black;
   padding: 5px;
   height: 30px;
   width: 200px;
